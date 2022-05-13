@@ -1,16 +1,16 @@
-CMD - ABRIR OS COMANDOS
+# COMANS DO  GIT BASH
 
-PRIMEIRO COMANDO: dir enter    aparecer as pastas
-
-SEGUNDO COMANDO: cd/     mais comandos navegar nas pastas
-
-TERCEIRO COMANDO: cd..     para voltar um nivel
-
-QUARTO COMANDO: cls  ou ctrl + L     limpar tudo
-
-QUINTO COMANDO: TAB no teclado     preenche as palavras 
-
-SEXTO COMANDO: mkdir     mais nome da pasta criar pasta
+1 - LS = Lista de pastas .
+2 - CD/  + pasta que quero entrar ou  TAB ou seta pra cima pra voltar = Para entrar em alguma pasta
+3 - CD.. = Para retornar a pasta anterior
+4 - CLS ou Ctrl + L = Para limpar a tela
+5 - TAB = Preenche palavras
+6 - MKDIR + nome da pasta = Criar pasta 
+7 - DEL + nome da pasta = Apaga o conteudo dela
+8 - RMDIR = Apaga a pasta toda /S /Q
+9 - Seta do Teclado = Navega nos ultimos escritos
+10 - Shift + Ins = Colar
+11 -
 
 SETMO COMANDO: echo > criar um arquivo .md no final  print do que eu diditei após
 
@@ -51,11 +51,11 @@ _  _ pro texto ficar em italico
 
 
 
-
+# Programa para linguagem MarkDown:
 
 TYPORA 
 
-AJUDA / MARKDOWN REFERENCE - mostra todos os comandos pra formatação do texto
+Ajuda com personalização e códigos ir no:  Referencia / Ajuda - MARKDOWN 
 
 
 
