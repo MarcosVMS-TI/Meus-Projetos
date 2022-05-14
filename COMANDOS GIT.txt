@@ -10,45 +10,25 @@
 8 - RMDIR = Apaga a pasta toda /S /Q
 9 - Seta do Teclado = Navega nos ultimos escritos
 10 - Shift + Ins = Colar
-11 -
+11 - LS -A = Listar arquivos ocultos
+12 - MV + oque eu quero mover./onde eu quero colocar/ = mover algum arquivo
+13 - GIT STATUS = verifica se tem algum arquivo a ser comitado
+14 - GIT ADD * = Adiciona todos arquivos para staged
+15 - GIT COMMIT -M "resumo das alterações" = Para criar o commit que estava em staged.
+16 -  GIT RESTORE --STAGED =
+17 - GIT CONFIG --LIST = 
+18 - GIT INIT = 
+19 - GIT REMOTE ADD + Link no site = Para adicionar nossa árera remota no PC
+20 - GIT REMOTE -V = irá listar
+21 -  GIT PUSH + arquivo = Para Empurrar do PC para o remoto
+22 - GIT PULL + arquivo = Puxar do remoto para ao PC
 
-SETMO COMANDO: echo > criar um arquivo .md no final  print do que eu diditei após
 
-OITAVO COMANDO: del    pmais nome da pasta para apagar o conteudo
-
-NONO COMANDO rmdir     para apagar a pasta toda   /S /Q
-
-DECIMO COMANDO: seta do teclado pra cima pra navegar nos comandos
-
-11 - shift + Insert       copia as palavrasls 
-
-12 - ls     listar pastas e arquivos
-
-13 - ls -a       listar arquivos ocultos
-
-14 - mv   + o que eu quero mover ./onde eu quero colocar/
-
-15 - git status     para veririfcar se o arquivo foi modificado pra outra pasta e nao foi comitado
-
-16 - git add   + arquivos ou pastas a serem adicionados
-
-17 - git commit -m "resumo da alteração"     para criar o commit do que eu alterei
-
-18 - git restore --staged     + nome do arquivo
-
-19 - git config --list
-
-20 - git remote add     + o link para adicionar nossa area remota no app 
-
-21 - git remote -v     ira listar
-
-22 - git push     + nome do arquivo para empurar para area remota do git
+# Config na Edição de Textos:
 
 **  ** pro texto ficar em negrito 
 _  _ pro texto ficar em italico
-
-: mais nome do emoticon para usar
-
+: + nome do emoticon para usar
 
 
 # Programa para linguagem MarkDown:
@@ -58,13 +38,8 @@ TYPORA
 Ajuda com personalização e códigos ir no:  Referencia / Ajuda - MARKDOWN 
 
 
+# GIT BASH
 
-
-GIT BASH
-
-openssl sha1 *N       para buscar um arquivo já com o nome
-
-ALTERAR O ARQUIVO e colocar o mesmo código, mudará a cripto de 40 digitos
-
-SSH - /c/Users/Usuario/.ssh/id_ed25519.pub
+Qualquer alteração feita, mudará o código SHA1 de 40 digitos, normalmente ele fica abreviado.
+Porém se eu retornar o arquivo  igualme como ele era, terei o mesmo código novamente.
 
